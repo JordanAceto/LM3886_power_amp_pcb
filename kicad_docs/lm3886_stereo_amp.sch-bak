@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:lm3886_stereo_amp-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -53,7 +52,7 @@ U 1 1 5D0D441C
 P 4650 3050
 F 0 "C2" H 4765 3096 50  0000 L CNN
 F 1 "4n7" H 4765 3005 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4688 2900 50  0001 C CNN
+F 2 "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm" H 4688 2900 50  0001 C CNN
 F 3 "~" H 4650 3050 50  0001 C CNN
 	1    4650 3050
 	1    0    0    -1  
@@ -64,7 +63,7 @@ U 1 1 5D0D456D
 P 3750 2750
 F 0 "C1" V 3650 2600 50  0000 C CNN
 F 1 "1uF" V 3650 2900 50  0000 C CNN
-F 2 "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder" H 3788 2600 50  0001 C CNN
+F 2 "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm" H 3788 2600 50  0001 C CNN
 F 3 "~" H 3750 2750 50  0001 C CNN
 	1    3750 2750
 	0    1    1    0   
@@ -119,7 +118,7 @@ U 1 1 5D0DD6E5
 P 6800 3500
 F 0 "C5" H 6950 3600 50  0000 C CNN
 F 1 "220nF" H 6950 3400 50  0000 C CNN
-F 2 "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder" H 6838 3350 50  0001 C CNN
+F 2 "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm" H 6838 3350 50  0001 C CNN
 F 3 "~" H 6800 3500 50  0001 C CNN
 	1    6800 3500
 	1    0    0    -1  

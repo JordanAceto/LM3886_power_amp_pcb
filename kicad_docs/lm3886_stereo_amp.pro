@@ -1,6 +1,6 @@
-update=Sun 23 Feb 2020 03:55:02 PM EST
+update=Fri 21 Aug 2020 12:11:54 PM EDT
 version=1
-last_client=eeschema
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -33,6 +33,8 @@ TrackWidth2=0.762
 TrackWidth3=1.143
 ViaDiameter1=0.8
 ViaDrill1=0.4
+ViaDiameter2=1
+ViaDrill2=0.8
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
